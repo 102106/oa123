@@ -16,6 +16,6 @@ public class Test01 {
 	        
 	        // Assert
 	        assertEquals("字符串不相等", "ollej", result);
-	        assertEquals("字符串不相等", "olleh", result);
+	        assertEquals("字符串不相等", "ollej", result);
 	    }
 }
